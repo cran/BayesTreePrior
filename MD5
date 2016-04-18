@@ -1,0 +1,14 @@
+aa4dfdeb3f8cbbe9078734285fc643c9 *DESCRIPTION
+30b8c124f5f1d831d2032e75c526d092 *NAMESPACE
+f686cf3380ac8a6a9d2e5a9732489d0b *R/BayesTreePrior.R
+2c79560fd9fea0bfc95912dabad5f571 *man/BayesTreePrior.Rd
+0524a5858412f31773bb2eb1ae82d958 *man/BayesTreePriorNotOrthogonal.Rd
+94ef5ab06a457536fe490aff58c9507a *man/BayesTreePriorOrthogonal.Rd
+feda52da3bb8c25ed684d7d9ef370d54 *man/BayesTreePriorOrthogonalInf.Rd
+4e277f49cbae0c9aa362ef45ea01c8bb *man/E_alpha.Rd
+b55f71779fada40fe299245a0e664e7e *man/GetListUniqueSplits.Rd
+18faad136156408b5b0981e5418f6377 *man/NumBotMaxDepth.Rd
+972037eebf4a168be50b2fa6f3606098 *man/NumBotMaxDepthX.Rd
+68c37274da14a80b33749be018540941 *man/NumBotMaxDepth_inf.Rd
+b358af3d3acbc7911107fac859ff4e65 *man/Var_alpha.Rd
+fd88f51bb2266aa70f0b9c34462f948d *man/p_split.Rd
